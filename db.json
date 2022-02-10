@@ -1,0 +1,101 @@
+{
+  "library": [
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "description": "Django",
+      "id": "1"
+    },
+    {
+      "active_end_date": "2022-01-02",
+      "active_start_date": "2022-01-01",
+      "description": "Node",
+      "id": "2"
+    },
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "description": "Rails",
+      "id": "3"
+    },
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "description": "Flutter",
+      "id": "4"
+    },
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "description": "Vue",
+      "id": "5"
+    },
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "description": "Larvel",
+      "id": "883"
+    }
+  ],
+  "project": [
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "client_name": "Super Client 1",
+      "description": "This project does everything, blows your socks off",
+      "git_url": "http://github.com/ocom/sample_project_1",
+      "id": "1",
+      "libraries": [
+        {
+          "library_id": "5",
+          "version": "2"
+        },
+        {
+          "library_id": "1",
+          "version": "2.2LTS"
+        }
+      ],
+      "name": "Sample Project 1",
+      "production_url": "",
+      "testing_url": "http://sample-project1.qa.site.com"
+    },
+    {
+      "active_end_date": null,
+      "active_start_date": "2022-01-01",
+      "client_name": "Super Client 2",
+      "description": "This project Is some other project",
+      "git_url": "http://github.com/ocom/sample_project_2",
+      "id": "2",
+      "libraries": [
+        {
+          "library_id": "5",
+          "version": "2"
+        },
+        {
+          "library_id": "1",
+          "version": "2.2LTS"
+        }
+      ],
+      "name": "Sample Project 2",
+      "production_url": "",
+      "testing_url": "http://sample-project-2.qa.site.com"
+    },
+    {
+      "name": "asddsffdsdsf",
+      "client_name": "asd",
+      "description": "asd",
+      "git_url": "asd",
+      "testing_url": "asd",
+      "production_url": "asd",
+      "libraries": [
+        {
+          "library_id": "a",
+          "version": "asd"
+        }
+      ],
+      "active_start_date": "2022-02-09",
+      "active_end_date": "2022-02-10",
+      "id": "69lkKA8"
+    }
+  ]
+}
